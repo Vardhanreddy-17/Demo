@@ -1,0 +1,3 @@
+class KLU:
+    print("hi")
+
